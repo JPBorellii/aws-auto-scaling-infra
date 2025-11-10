@@ -56,3 +56,10 @@ O poder do projeto foi validado pela sua política de escalabilidade e um teste 
 * **Ação:** O teste "Start Stress" foi ativado via DNS do Load Balancer.
 * **Reação:** O script aumentou o uso da CPU, e o Auto Scaling Group detectou que a média ultrapassou a meta de 50%.
 * **Resultado (Scale-Out):** O ASG automaticamente provisionou novas instâncias (até o máximo de 4) para lidar com a demanda, provando a elasticidade da arquitetura.
+
+---
+
+## 📄 Documentação Original
+
+* **[LAB 175: Usando Auto Scaling na AWS (Linux).pdf](LAB%20175_%20Usando%20Auto%20Scaling%20na%20AWS%20(Linux).pdf)**
+    * Este é o documento PDF que documenta o laboratório que serviu como base para este projeto.
