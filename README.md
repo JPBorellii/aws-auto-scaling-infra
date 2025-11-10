@@ -10,7 +10,7 @@ Este projeto demonstra a implementação de uma arquitetura web robusta, altamen
 
 A arquitetura final utiliza múltiplas Zonas de Disponibilidade (Multi-AZ) para garantir alta disponibilidade. O tráfego é direcionado para um Application Load Balancer, que o distribui entre instâncias EC2 em sub-redes privadas. O Auto Scaling Group monitora e ajusta a capacidade automaticamente.
 
-![Diagrama da Arquitetura Final](arquitetura-final.png)
+![Diagrama da Arquitetura Final](arquitetura-final.png.png)
 
 ---
 
