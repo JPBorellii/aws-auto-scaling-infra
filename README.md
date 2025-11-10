@@ -61,5 +61,5 @@ O poder do projeto foi validado pela sua política de escalabilidade e um teste 
 
 ## 📄 Documentação Original
 
-* **[LAB 175: Usando Auto Scaling na AWS (Linux).pdf](LAB 175 AWS - Usando Auto Scaling (Linux).pdf)**
-    * Este é o documento PDF que documenta o laboratório que serviu como base para este projeto.
+* **[LAB 175: Usando Auto Scaling na AWS (Linux).pdf](LAB%20175_%20Usando%20Auto%20Scaling%20na%20AWS%20(Linux).pdf)**
+    * Este é o documento PDF original do laboratório que serviu como base para este projeto.
